@@ -1,0 +1,1 @@
+console.log('once a man said!,"words cut deeper than swort"')
